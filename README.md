@@ -1,0 +1,5 @@
+![Screenshot pertama, form masih kosong](https://s27.postimg.org/oykucr3tv/Array_Form_1.png)
+![Screenshot kedua, pilihan yang tersedia](https://s27.postimg.org/6o44p0x0j/Array_Form_Pilihan.png)
+![Screenshot ketiga](https://s27.postimg.org/mvaf5340z/Array_Form_2.png)
+![Screenshot keempat](https://s27.postimg.org/dos4hsysj/Array_Form_3.png)
+![Screenshot kelima](https://s27.postimg.org/jqzr8an8j/Array_Form_4.png)
